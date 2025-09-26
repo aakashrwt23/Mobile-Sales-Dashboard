@@ -31,3 +31,5 @@ The dashboard is designed for high interactivity and detailed analysis, showcasi
     * Sales by Mobile Model chart clearly ranks the top-selling models/brands by total sales volume.
     * Mobile Brand Sales Table provides the raw numbers for different brands (like Apple, Samsung, Vivo, Xiaomi), showing Total Sales, Total Quantity, and Total          Transactions.
   * Time-Series Analysis: The **Total Sales By Day Name** chart tracks sales volume across the days of the week, allowing for resource and promotional planning.
+
+5) Snapshot of the Project : https://github.com/aakashrwt23/Mobile-Sales-Dashboard/blob/main/Dashboard%20Interface.png
